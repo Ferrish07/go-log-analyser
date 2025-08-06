@@ -1,0 +1,508 @@
+2025-08-05T11:41:38.434967+01:00 pi4-8gb systemd-logind[738]: Removed session 1228.
+2025-08-05T11:45:01.229566+01:00 pi4-8gb CRON[28003]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T11:45:01.239773+01:00 pi4-8gb CRON[28003]: pam_unix(cron:session): session closed for user root
+2025-08-05T11:55:01.264845+01:00 pi4-8gb CRON[28017]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T11:55:01.274705+01:00 pi4-8gb CRON[28017]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:05:01.298748+01:00 pi4-8gb CRON[28040]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:05:01.308658+01:00 pi4-8gb CRON[28040]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:15:01.333513+01:00 pi4-8gb CRON[28056]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:15:01.343762+01:00 pi4-8gb CRON[28056]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:17:01.365382+01:00 pi4-8gb CRON[28060]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:17:01.375702+01:00 pi4-8gb CRON[28060]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:25:01.398898+01:00 pi4-8gb CRON[28076]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:25:01.409361+01:00 pi4-8gb CRON[28076]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:35:01.434876+01:00 pi4-8gb CRON[28094]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:35:01.444846+01:00 pi4-8gb CRON[28094]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:45:01.468387+01:00 pi4-8gb CRON[28111]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:45:01.478996+01:00 pi4-8gb CRON[28111]: pam_unix(cron:session): session closed for user root
+2025-08-05T12:55:01.503374+01:00 pi4-8gb CRON[28126]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:55:01.513593+01:00 pi4-8gb CRON[28126]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:05:01.538832+01:00 pi4-8gb CRON[28142]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:05:01.548295+01:00 pi4-8gb CRON[28142]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:15:01.571656+01:00 pi4-8gb CRON[28157]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:15:01.582232+01:00 pi4-8gb CRON[28157]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:17:01.601575+01:00 pi4-8gb CRON[28164]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:17:01.611454+01:00 pi4-8gb CRON[28164]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:25:01.635380+01:00 pi4-8gb CRON[28178]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:25:01.646790+01:00 pi4-8gb CRON[28178]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:35:01.671857+01:00 pi4-8gb CRON[28204]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:35:01.681432+01:00 pi4-8gb CRON[28204]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:45:01.704895+01:00 pi4-8gb CRON[28217]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:45:01.715128+01:00 pi4-8gb CRON[28217]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:55:01.739574+01:00 pi4-8gb CRON[28233]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:55:01.750108+01:00 pi4-8gb CRON[28233]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:05:01.775712+01:00 pi4-8gb CRON[28250]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:05:01.785696+01:00 pi4-8gb CRON[28250]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:15:01.810709+01:00 pi4-8gb CRON[28269]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:15:01.820944+01:00 pi4-8gb CRON[28269]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:17:01.842073+01:00 pi4-8gb CRON[28274]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:17:01.852448+01:00 pi4-8gb CRON[28274]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:25:01.874226+01:00 pi4-8gb CRON[28297]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:25:01.884797+01:00 pi4-8gb CRON[28297]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:35:01.909049+01:00 pi4-8gb CRON[28312]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:35:01.919182+01:00 pi4-8gb CRON[28312]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:45:01.944750+01:00 pi4-8gb CRON[28331]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:45:01.954882+01:00 pi4-8gb CRON[28331]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:55:01.980565+01:00 pi4-8gb CRON[28348]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:55:01.990588+01:00 pi4-8gb CRON[28348]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:05:02.016709+01:00 pi4-8gb CRON[28362]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:05:02.026720+01:00 pi4-8gb CRON[28362]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:15:01.051617+01:00 pi4-8gb CRON[28381]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:15:01.062532+01:00 pi4-8gb CRON[28381]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:17:01.084458+01:00 pi4-8gb CRON[28386]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:17:01.094236+01:00 pi4-8gb CRON[28386]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:25:01.119611+01:00 pi4-8gb CRON[28399]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:25:01.129736+01:00 pi4-8gb CRON[28399]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:35:01.154244+01:00 pi4-8gb CRON[28416]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:35:01.164486+01:00 pi4-8gb CRON[28416]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:45:01.188656+01:00 pi4-8gb CRON[28430]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:45:01.198850+01:00 pi4-8gb CRON[28430]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:55:01.223582+01:00 pi4-8gb CRON[28454]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:55:01.234465+01:00 pi4-8gb CRON[28454]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:05:01.259917+01:00 pi4-8gb CRON[28470]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:05:01.270795+01:00 pi4-8gb CRON[28470]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:15:01.296607+01:00 pi4-8gb CRON[28491]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:15:01.307076+01:00 pi4-8gb CRON[28491]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:17:01.327892+01:00 pi4-8gb CRON[28498]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:17:01.337502+01:00 pi4-8gb CRON[28498]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:25:01.362782+01:00 pi4-8gb CRON[28510]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:25:01.375299+01:00 pi4-8gb CRON[28510]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:30:33.104924+01:00 pi4-8gb sshd[28524]: Accepted publickey for ferris from 192.168.1.195 port 54231 ssh2: ED25519 SHA256:gJcmjPOSkEXeRiohjTVvytYjyb1XbDqeEb82EdpAxNE
+2025-08-05T16:30:33.113017+01:00 pi4-8gb sshd[28524]: pam_unix(sshd:session): session opened for user ferris(uid=1000) by ferris(uid=0)
+2025-08-05T16:30:33.126442+01:00 pi4-8gb systemd-logind[738]: New session 1263 of user ferris.
+2025-08-05T16:32:59.753819+01:00 pi4-8gb sshd[28604]: Received disconnect from 192.168.1.195 port 54231:11: disconnected by user
+2025-08-05T16:32:59.761282+01:00 pi4-8gb sshd[28604]: Disconnected from user ferris 192.168.1.195 port 54231
+2025-08-05T16:32:59.762647+01:00 pi4-8gb sshd[28524]: pam_unix(sshd:session): session closed for user ferris
+2025-08-05T16:32:59.770170+01:00 pi4-8gb systemd-logind[738]: Session 1263 logged out. Waiting for processes to exit.
+2025-08-05T16:32:59.772888+01:00 pi4-8gb systemd-logind[738]: Removed session 1263.
+2025-08-05T16:35:01.396395+01:00 pi4-8gb CRON[28631]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:35:01.406063+01:00 pi4-8gb CRON[28631]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:45:01.430607+01:00 pi4-8gb CRON[28651]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:45:01.441148+01:00 pi4-8gb CRON[28651]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:55:01.464944+01:00 pi4-8gb CRON[28667]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:55:01.475157+01:00 pi4-8gb CRON[28667]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:05:01.501030+01:00 pi4-8gb CRON[28684]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:05:01.511266+01:00 pi4-8gb CRON[28684]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:15:01.535823+01:00 pi4-8gb CRON[28700]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:15:01.546049+01:00 pi4-8gb CRON[28700]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:17:01.568902+01:00 pi4-8gb CRON[28705]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:17:01.578723+01:00 pi4-8gb CRON[28705]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:25:01.601633+01:00 pi4-8gb CRON[28720]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:25:01.611923+01:00 pi4-8gb CRON[28720]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:35:01.635357+01:00 pi4-8gb CRON[28738]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:35:01.645713+01:00 pi4-8gb CRON[28738]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:45:01.671901+01:00 pi4-8gb CRON[28797]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:45:01.682132+01:00 pi4-8gb CRON[28797]: pam_unix(cron:session): session closed for user root
+2025-08-05T17:55:01.707701+01:00 pi4-8gb CRON[28814]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T17:55:01.718305+01:00 pi4-8gb CRON[28814]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:05:01.740544+01:00 pi4-8gb CRON[28839]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:05:01.751059+01:00 pi4-8gb CRON[28839]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:15:01.776915+01:00 pi4-8gb CRON[28856]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:15:01.787418+01:00 pi4-8gb CRON[28856]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:17:01.810395+01:00 pi4-8gb CRON[28863]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:17:01.820270+01:00 pi4-8gb CRON[28863]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:25:01.844731+01:00 pi4-8gb CRON[28875]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:25:01.854655+01:00 pi4-8gb CRON[28875]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:35:01.878295+01:00 pi4-8gb CRON[28890]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:35:01.888448+01:00 pi4-8gb CRON[28890]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:45:01.912445+01:00 pi4-8gb CRON[28908]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:45:01.922769+01:00 pi4-8gb CRON[28908]: pam_unix(cron:session): session closed for user root
+2025-08-05T18:55:01.948643+01:00 pi4-8gb CRON[28923]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T18:55:01.958648+01:00 pi4-8gb CRON[28923]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:05:01.983778+01:00 pi4-8gb CRON[28937]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:05:01.993760+01:00 pi4-8gb CRON[28937]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:15:02.019644+01:00 pi4-8gb CRON[28953]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:15:02.029682+01:00 pi4-8gb CRON[28953]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:17:01.049897+01:00 pi4-8gb CRON[28958]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:17:01.059874+01:00 pi4-8gb CRON[28958]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:25:01.084547+01:00 pi4-8gb CRON[28970]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:25:01.094774+01:00 pi4-8gb CRON[28970]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:35:01.119779+01:00 pi4-8gb CRON[28992]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:35:01.130760+01:00 pi4-8gb CRON[28992]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:45:01.155258+01:00 pi4-8gb CRON[29011]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:45:01.165555+01:00 pi4-8gb CRON[29011]: pam_unix(cron:session): session closed for user root
+2025-08-05T19:55:01.191626+01:00 pi4-8gb CRON[29027]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T19:55:01.201189+01:00 pi4-8gb CRON[29027]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:05:01.225860+01:00 pi4-8gb CRON[29050]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:05:01.235493+01:00 pi4-8gb CRON[29050]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:15:01.258954+01:00 pi4-8gb CRON[29068]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:15:01.269222+01:00 pi4-8gb CRON[29068]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:17:01.290884+01:00 pi4-8gb CRON[29075]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:17:01.301078+01:00 pi4-8gb CRON[29075]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:25:01.324575+01:00 pi4-8gb CRON[29090]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:25:01.334708+01:00 pi4-8gb CRON[29090]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:35:01.359803+01:00 pi4-8gb CRON[29109]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:35:01.369629+01:00 pi4-8gb CRON[29109]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:45:01.393984+01:00 pi4-8gb CRON[29127]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:45:01.404260+01:00 pi4-8gb CRON[29127]: pam_unix(cron:session): session closed for user root
+2025-08-05T20:55:01.428662+01:00 pi4-8gb CRON[29143]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T20:55:01.439280+01:00 pi4-8gb CRON[29143]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:05:01.463253+01:00 pi4-8gb CRON[29159]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:05:01.473479+01:00 pi4-8gb CRON[29159]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:15:01.498830+01:00 pi4-8gb CRON[29177]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:15:01.509019+01:00 pi4-8gb CRON[29177]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:17:01.529971+01:00 pi4-8gb CRON[29182]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:17:01.539819+01:00 pi4-8gb CRON[29182]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:25:01.564807+01:00 pi4-8gb CRON[29197]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:25:01.575173+01:00 pi4-8gb CRON[29197]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:35:01.600844+01:00 pi4-8gb CRON[29220]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:35:01.610772+01:00 pi4-8gb CRON[29220]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:45:01.635848+01:00 pi4-8gb CRON[29234]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:45:01.646949+01:00 pi4-8gb CRON[29234]: pam_unix(cron:session): session closed for user root
+2025-08-05T21:55:01.671800+01:00 pi4-8gb CRON[29249]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T21:55:01.682252+01:00 pi4-8gb CRON[29249]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:05:01.706940+01:00 pi4-8gb CRON[29264]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:05:01.717374+01:00 pi4-8gb CRON[29264]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:15:01.743174+01:00 pi4-8gb CRON[29279]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:15:01.753145+01:00 pi4-8gb CRON[29279]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:17:01.773567+01:00 pi4-8gb CRON[29284]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:17:01.783505+01:00 pi4-8gb CRON[29284]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:25:01.808777+01:00 pi4-8gb CRON[29298]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:25:01.819131+01:00 pi4-8gb CRON[29298]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:35:01.844056+01:00 pi4-8gb CRON[29314]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:35:01.854678+01:00 pi4-8gb CRON[29314]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:45:01.878705+01:00 pi4-8gb CRON[29336]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:45:01.888914+01:00 pi4-8gb CRON[29336]: pam_unix(cron:session): session closed for user root
+2025-08-05T22:55:01.914638+01:00 pi4-8gb CRON[29355]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T22:55:01.924421+01:00 pi4-8gb CRON[29355]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:05:01.949798+01:00 pi4-8gb CRON[29371]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:05:01.959613+01:00 pi4-8gb CRON[29371]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:15:01.985512+01:00 pi4-8gb CRON[29386]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:15:01.995527+01:00 pi4-8gb CRON[29386]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:17:02.016948+01:00 pi4-8gb CRON[29392]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:17:02.026788+01:00 pi4-8gb CRON[29392]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:25:01.048403+01:00 pi4-8gb CRON[29412]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:25:01.059135+01:00 pi4-8gb CRON[29412]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:35:01.082509+01:00 pi4-8gb CRON[29430]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:35:01.092734+01:00 pi4-8gb CRON[29430]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:45:01.116711+01:00 pi4-8gb CRON[29445]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:45:01.126965+01:00 pi4-8gb CRON[29445]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:55:01.151559+01:00 pi4-8gb CRON[29462]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:55:01.162417+01:00 pi4-8gb CRON[29462]: pam_unix(cron:session): session closed for user root
+2025-08-05T23:59:01.183987+01:00 pi4-8gb CRON[29471]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T23:59:01.194079+01:00 pi4-8gb CRON[29471]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:05:01.218323+01:00 pi4-8gb CRON[29495]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:05:01.228081+01:00 pi4-8gb CRON[29495]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:15:01.251760+01:00 pi4-8gb CRON[29523]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:15:01.261837+01:00 pi4-8gb CRON[29523]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:17:01.284734+01:00 pi4-8gb CRON[29529]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:17:01.294736+01:00 pi4-8gb CRON[29529]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:25:01.319644+01:00 pi4-8gb CRON[29541]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:25:01.329580+01:00 pi4-8gb CRON[29541]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:35:01.353316+01:00 pi4-8gb CRON[29556]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:35:01.363688+01:00 pi4-8gb CRON[29556]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:45:01.387707+01:00 pi4-8gb CRON[29574]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:45:01.398097+01:00 pi4-8gb CRON[29574]: pam_unix(cron:session): session closed for user root
+2025-08-06T00:55:01.421520+01:00 pi4-8gb CRON[29595]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T00:55:01.431610+01:00 pi4-8gb CRON[29595]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:05:01.457696+01:00 pi4-8gb CRON[29610]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:05:01.467657+01:00 pi4-8gb CRON[29610]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:15:01.493610+01:00 pi4-8gb CRON[29628]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:15:01.504360+01:00 pi4-8gb CRON[29628]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:17:01.526770+01:00 pi4-8gb CRON[29632]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:17:01.536594+01:00 pi4-8gb CRON[29632]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:25:01.561663+01:00 pi4-8gb CRON[29648]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:25:01.571986+01:00 pi4-8gb CRON[29648]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:35:01.597767+01:00 pi4-8gb CRON[29665]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:35:01.607688+01:00 pi4-8gb CRON[29665]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:45:01.630690+01:00 pi4-8gb CRON[29681]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:45:01.640985+01:00 pi4-8gb CRON[29681]: pam_unix(cron:session): session closed for user root
+2025-08-06T01:55:01.666583+01:00 pi4-8gb CRON[29704]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T01:55:01.676698+01:00 pi4-8gb CRON[29704]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:05:01.702983+01:00 pi4-8gb CRON[29719]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:05:01.712823+01:00 pi4-8gb CRON[29719]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:15:01.738709+01:00 pi4-8gb CRON[29737]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:15:01.749036+01:00 pi4-8gb CRON[29737]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:17:01.770996+01:00 pi4-8gb CRON[29741]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:17:01.780862+01:00 pi4-8gb CRON[29741]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:25:01.802955+01:00 pi4-8gb CRON[29757]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:25:01.813302+01:00 pi4-8gb CRON[29757]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:35:01.835483+01:00 pi4-8gb CRON[29770]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:35:01.845995+01:00 pi4-8gb CRON[29770]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:45:01.870781+01:00 pi4-8gb CRON[29785]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:45:01.880791+01:00 pi4-8gb CRON[29785]: pam_unix(cron:session): session closed for user root
+2025-08-06T02:55:01.904522+01:00 pi4-8gb CRON[29810]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T02:55:01.914996+01:00 pi4-8gb CRON[29810]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:05:01.938771+01:00 pi4-8gb CRON[29827]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:05:01.950763+01:00 pi4-8gb CRON[29827]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:10:01.973534+01:00 pi4-8gb CRON[29836]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:10:02.042340+01:00 pi4-8gb CRON[29836]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:15:02.005148+01:00 pi4-8gb CRON[29845]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:15:02.014929+01:00 pi4-8gb CRON[29845]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:17:01.037750+01:00 pi4-8gb CRON[29853]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:17:01.046844+01:00 pi4-8gb CRON[29853]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:25:01.071518+01:00 pi4-8gb CRON[29866]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:25:01.081335+01:00 pi4-8gb CRON[29866]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:35:01.104791+01:00 pi4-8gb CRON[29880]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:35:01.114991+01:00 pi4-8gb CRON[29880]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:45:01.138146+01:00 pi4-8gb CRON[29902]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:45:01.148214+01:00 pi4-8gb CRON[29902]: pam_unix(cron:session): session closed for user root
+2025-08-06T03:55:01.171612+01:00 pi4-8gb CRON[29920]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T03:55:01.181841+01:00 pi4-8gb CRON[29920]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:05:01.207200+01:00 pi4-8gb CRON[29937]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:05:01.217312+01:00 pi4-8gb CRON[29937]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:15:01.238697+01:00 pi4-8gb CRON[29952]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:15:01.249196+01:00 pi4-8gb CRON[29952]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:17:01.269808+01:00 pi4-8gb CRON[29958]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:17:01.279398+01:00 pi4-8gb CRON[29958]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:25:01.302644+01:00 pi4-8gb CRON[29969]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:25:01.312882+01:00 pi4-8gb CRON[29969]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:35:01.338705+01:00 pi4-8gb CRON[30501]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:35:01.348596+01:00 pi4-8gb CRON[30501]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:45:01.373781+01:00 pi4-8gb CRON[30516]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:45:01.384158+01:00 pi4-8gb CRON[30516]: pam_unix(cron:session): session closed for user root
+2025-08-06T04:55:01.407231+01:00 pi4-8gb CRON[30532]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T04:55:01.417189+01:00 pi4-8gb CRON[30532]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:05:01.442866+01:00 pi4-8gb CRON[30550]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:05:01.452845+01:00 pi4-8gb CRON[30550]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:15:01.477525+01:00 pi4-8gb CRON[30603]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:15:01.487588+01:00 pi4-8gb CRON[30603]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:17:01.510151+01:00 pi4-8gb CRON[30610]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:17:01.520334+01:00 pi4-8gb CRON[30610]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:25:01.542626+01:00 pi4-8gb CRON[30625]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:25:01.553165+01:00 pi4-8gb CRON[30625]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:35:01.578761+01:00 pi4-8gb CRON[30640]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:35:01.589064+01:00 pi4-8gb CRON[30640]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:45:01.613762+01:00 pi4-8gb CRON[30664]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:45:01.623496+01:00 pi4-8gb CRON[30664]: pam_unix(cron:session): session closed for user root
+2025-08-06T05:55:01.649612+01:00 pi4-8gb CRON[30680]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T05:55:01.659914+01:00 pi4-8gb CRON[30680]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:05:01.685810+01:00 pi4-8gb CRON[30696]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:05:01.696058+01:00 pi4-8gb CRON[30696]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:15:01.719621+01:00 pi4-8gb CRON[40257]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:15:01.729617+01:00 pi4-8gb CRON[40257]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:17:01.752681+01:00 pi4-8gb CRON[40262]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:17:01.762331+01:00 pi4-8gb CRON[40262]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:25:01.786314+01:00 pi4-8gb CRON[40276]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:25:01.793174+01:00 pi4-8gb CRON[40277]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:25:01.796452+01:00 pi4-8gb CRON[40277]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:25:01.834802+01:00 pi4-8gb CRON[40276]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:35:01.863002+01:00 pi4-8gb CRON[40303]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:35:01.874479+01:00 pi4-8gb CRON[40303]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:45:01.901217+01:00 pi4-8gb CRON[40330]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:45:01.913138+01:00 pi4-8gb CRON[40330]: pam_unix(cron:session): session closed for user root
+2025-08-06T06:55:01.936132+01:00 pi4-8gb CRON[40346]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T06:55:01.946108+01:00 pi4-8gb CRON[40346]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:05:01.969916+01:00 pi4-8gb CRON[40361]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:05:01.981241+01:00 pi4-8gb CRON[40361]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:15:02.006690+01:00 pi4-8gb CRON[40377]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:15:02.016692+01:00 pi4-8gb CRON[40377]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:17:01.038845+01:00 pi4-8gb CRON[40382]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:17:01.048655+01:00 pi4-8gb CRON[40382]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:25:01.072618+01:00 pi4-8gb CRON[40401]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:25:01.082782+01:00 pi4-8gb CRON[40401]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:35:01.108746+01:00 pi4-8gb CRON[40417]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:35:01.118587+01:00 pi4-8gb CRON[40417]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:45:01.142571+01:00 pi4-8gb CRON[40434]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:45:01.152946+01:00 pi4-8gb CRON[40434]: pam_unix(cron:session): session closed for user root
+2025-08-06T07:55:01.178725+01:00 pi4-8gb CRON[40447]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T07:55:01.189166+01:00 pi4-8gb CRON[40447]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:05:01.214939+01:00 pi4-8gb CRON[40464]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:05:01.224716+01:00 pi4-8gb CRON[40464]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:15:01.249849+01:00 pi4-8gb CRON[40481]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:15:01.259856+01:00 pi4-8gb CRON[40481]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:17:01.281252+01:00 pi4-8gb CRON[40488]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:17:01.291093+01:00 pi4-8gb CRON[40488]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:25:01.313881+01:00 pi4-8gb CRON[40501]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:25:01.325074+01:00 pi4-8gb CRON[40501]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:35:01.349442+01:00 pi4-8gb CRON[40518]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:35:01.359720+01:00 pi4-8gb CRON[40518]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:45:01.384892+01:00 pi4-8gb CRON[40534]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:45:01.394716+01:00 pi4-8gb CRON[40534]: pam_unix(cron:session): session closed for user root
+2025-08-06T08:55:01.419670+01:00 pi4-8gb CRON[40555]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T08:55:01.429744+01:00 pi4-8gb CRON[40555]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:05:01.455629+01:00 pi4-8gb CRON[40586]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:05:01.465459+01:00 pi4-8gb CRON[40586]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:15:01.489638+01:00 pi4-8gb CRON[40601]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:15:01.500068+01:00 pi4-8gb CRON[40601]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:17:01.521127+01:00 pi4-8gb CRON[40607]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:17:01.531140+01:00 pi4-8gb CRON[40607]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:25:01.555688+01:00 pi4-8gb CRON[40622]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:25:01.565969+01:00 pi4-8gb CRON[40622]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:35:01.591945+01:00 pi4-8gb CRON[40638]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:35:01.602053+01:00 pi4-8gb CRON[40638]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:45:01.623853+01:00 pi4-8gb CRON[40652]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:45:01.634933+01:00 pi4-8gb CRON[40652]: pam_unix(cron:session): session closed for user root
+2025-08-06T09:55:01.658912+01:00 pi4-8gb CRON[40669]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T09:55:01.669479+01:00 pi4-8gb CRON[40669]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:05:01.693264+01:00 pi4-8gb CRON[40687]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:05:01.703589+01:00 pi4-8gb CRON[40687]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:15:01.726815+01:00 pi4-8gb CRON[40702]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:15:01.737275+01:00 pi4-8gb CRON[40702]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:17:01.759963+01:00 pi4-8gb CRON[40708]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:17:01.769791+01:00 pi4-8gb CRON[40708]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:23:32.026141+01:00 pi4-8gb sshd[40728]: Accepted publickey for ferris from 192.168.1.195 port 55861 ssh2: ED25519 SHA256:gJcmjPOSkEXeRiohjTVvytYjyb1XbDqeEb82EdpAxNE
+2025-08-06T10:23:32.033837+01:00 pi4-8gb sshd[40728]: pam_unix(sshd:session): session opened for user ferris(uid=1000) by ferris(uid=0)
+2025-08-06T10:23:32.048514+01:00 pi4-8gb systemd-logind[738]: New session 1392 of user ferris.
+2025-08-06T10:25:01.795042+01:00 pi4-8gb CRON[40864]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:25:01.804810+01:00 pi4-8gb CRON[40864]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:35:01.829354+01:00 pi4-8gb CRON[40883]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:35:01.839214+01:00 pi4-8gb CRON[40883]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:45:01.863700+01:00 pi4-8gb CRON[40941]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:45:01.874127+01:00 pi4-8gb CRON[40941]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:55:01.899905+01:00 pi4-8gb CRON[40957]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T10:55:01.909610+01:00 pi4-8gb CRON[40957]: pam_unix(cron:session): session closed for user root
+2025-08-06T10:58:51.300919+01:00 pi4-8gb sshd[40809]: Received disconnect from 192.168.1.195 port 55861:11: disconnected by user
+2025-08-06T10:58:51.308585+01:00 pi4-8gb sshd[40809]: Disconnected from user ferris 192.168.1.195 port 55861
+2025-08-06T10:58:51.309825+01:00 pi4-8gb sshd[40728]: pam_unix(sshd:session): session closed for user ferris
+2025-08-06T10:58:51.317215+01:00 pi4-8gb systemd-logind[738]: Session 1392 logged out. Waiting for processes to exit.
+2025-08-06T10:58:51.320638+01:00 pi4-8gb systemd-logind[738]: Removed session 1392.
+2025-08-06T11:05:01.935955+01:00 pi4-8gb CRON[40976]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:05:01.946311+01:00 pi4-8gb CRON[40976]: pam_unix(cron:session): session closed for user root
+2025-08-06T11:15:01.969876+01:00 pi4-8gb CRON[40991]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:15:01.980045+01:00 pi4-8gb CRON[40991]: pam_unix(cron:session): session closed for user root
+2025-08-06T11:17:02.001844+01:00 pi4-8gb CRON[41000]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:17:02.011734+01:00 pi4-8gb CRON[41000]: pam_unix(cron:session): session closed for user root
+2025-08-06T11:25:01.036737+01:00 pi4-8gb CRON[41015]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:25:01.046580+01:00 pi4-8gb CRON[41015]: pam_unix(cron:session): session closed for user root
+2025-08-06T11:35:01.071849+01:00 pi4-8gb CRON[41035]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:35:01.082218+01:00 pi4-8gb CRON[41035]: pam_unix(cron:session): session closed for user root
+2025-08-06T11:45:01.107975+01:00 pi4-8gb CRON[41049]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:45:01.118798+01:00 pi4-8gb CRON[41049]: pam_unix(cron:session): session closed for user root
+2025-08-06T11:55:01.143141+01:00 pi4-8gb CRON[41071]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T11:55:01.153605+01:00 pi4-8gb CRON[41071]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:05:01.177770+01:00 pi4-8gb CRON[41088]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:05:01.188028+01:00 pi4-8gb CRON[41088]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:15:01.211795+01:00 pi4-8gb CRON[41111]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:15:01.222088+01:00 pi4-8gb CRON[41111]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:17:01.244845+01:00 pi4-8gb CRON[41209]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:17:01.254344+01:00 pi4-8gb CRON[41209]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:25:01.276990+01:00 pi4-8gb CRON[41223]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:25:01.287696+01:00 pi4-8gb CRON[41223]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:35:01.314067+01:00 pi4-8gb CRON[41239]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:35:01.324403+01:00 pi4-8gb CRON[41239]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:45:01.347922+01:00 pi4-8gb CRON[41255]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:45:01.358188+01:00 pi4-8gb CRON[41255]: pam_unix(cron:session): session closed for user root
+2025-08-06T12:55:01.383813+01:00 pi4-8gb CRON[41299]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T12:55:01.393522+01:00 pi4-8gb CRON[41299]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:05:01.416346+01:00 pi4-8gb CRON[41315]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:05:01.426513+01:00 pi4-8gb CRON[41315]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:15:01.450048+01:00 pi4-8gb CRON[41333]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:15:01.460231+01:00 pi4-8gb CRON[41333]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:17:01.481714+01:00 pi4-8gb CRON[41339]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:17:01.491545+01:00 pi4-8gb CRON[41339]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:25:01.514695+01:00 pi4-8gb CRON[41354]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:25:01.525145+01:00 pi4-8gb CRON[41354]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:35:01.551123+01:00 pi4-8gb CRON[41369]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:35:01.561711+01:00 pi4-8gb CRON[41369]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:45:01.584970+01:00 pi4-8gb CRON[41387]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:45:01.595261+01:00 pi4-8gb CRON[41387]: pam_unix(cron:session): session closed for user root
+2025-08-06T13:55:01.618750+01:00 pi4-8gb CRON[41403]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T13:55:01.631443+01:00 pi4-8gb CRON[41403]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:05:01.653718+01:00 pi4-8gb CRON[41435]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:05:01.663848+01:00 pi4-8gb CRON[41435]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:15:01.688917+01:00 pi4-8gb CRON[41454]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:15:01.698982+01:00 pi4-8gb CRON[41454]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:17:01.721859+01:00 pi4-8gb CRON[41458]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:17:01.731900+01:00 pi4-8gb CRON[41458]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:25:01.756782+01:00 pi4-8gb CRON[41474]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:25:01.766714+01:00 pi4-8gb CRON[41474]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:35:01.791784+01:00 pi4-8gb CRON[41489]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:35:01.801615+01:00 pi4-8gb CRON[41489]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:45:01.825445+01:00 pi4-8gb CRON[41506]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:45:01.835975+01:00 pi4-8gb CRON[41506]: pam_unix(cron:session): session closed for user root
+2025-08-06T14:55:01.861612+01:00 pi4-8gb CRON[41523]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T14:55:01.871356+01:00 pi4-8gb CRON[41523]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:05:01.896850+01:00 pi4-8gb CRON[41538]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:05:01.906669+01:00 pi4-8gb CRON[41538]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:15:01.930630+01:00 pi4-8gb CRON[41560]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:15:01.940704+01:00 pi4-8gb CRON[41560]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:17:01.963770+01:00 pi4-8gb CRON[41567]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:17:01.973631+01:00 pi4-8gb CRON[41567]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:25:01.998656+01:00 pi4-8gb CRON[41583]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:25:02.008743+01:00 pi4-8gb CRON[41583]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:35:01.034760+01:00 pi4-8gb CRON[41597]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:35:01.044467+01:00 pi4-8gb CRON[41597]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:45:01.069718+01:00 pi4-8gb CRON[41612]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:45:01.079620+01:00 pi4-8gb CRON[41612]: pam_unix(cron:session): session closed for user root
+2025-08-06T15:55:01.103604+01:00 pi4-8gb CRON[41628]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T15:55:01.113563+01:00 pi4-8gb CRON[41628]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:05:01.136701+01:00 pi4-8gb CRON[41643]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:05:01.147511+01:00 pi4-8gb CRON[41643]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:12:08.057447+01:00 pi4-8gb sshd[41657]: Accepted publickey for ferris from 192.168.1.195 port 56642 ssh2: ED25519 SHA256:gJcmjPOSkEXeRiohjTVvytYjyb1XbDqeEb82EdpAxNE
+2025-08-06T16:12:08.065385+01:00 pi4-8gb sshd[41657]: pam_unix(sshd:session): session opened for user ferris(uid=1000) by ferris(uid=0)
+2025-08-06T16:12:08.079103+01:00 pi4-8gb systemd-logind[738]: New session 1433 of user ferris.
+2025-08-06T16:15:01.172864+01:00 pi4-8gb CRON[41758]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:15:01.182593+01:00 pi4-8gb CRON[41758]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:17:01.204484+01:00 pi4-8gb CRON[41762]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:17:01.214417+01:00 pi4-8gb CRON[41762]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:25:01.238835+01:00 pi4-8gb CRON[41781]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:25:01.248965+01:00 pi4-8gb CRON[41781]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:35:01.274759+01:00 pi4-8gb CRON[41798]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:35:01.286703+01:00 pi4-8gb CRON[41798]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:42:40.310177+01:00 pi4-8gb sshd[41737]: Received disconnect from 192.168.1.195 port 56642:11: disconnected by user
+2025-08-06T16:42:40.318862+01:00 pi4-8gb sshd[41737]: Disconnected from user ferris 192.168.1.195 port 56642
+2025-08-06T16:42:40.320188+01:00 pi4-8gb sshd[41657]: pam_unix(sshd:session): session closed for user ferris
+2025-08-06T16:42:40.325822+01:00 pi4-8gb systemd-logind[738]: Session 1433 logged out. Waiting for processes to exit.
+2025-08-06T16:42:40.328460+01:00 pi4-8gb systemd-logind[738]: Removed session 1433.
+2025-08-06T16:45:01.309926+01:00 pi4-8gb CRON[41825]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:45:01.319938+01:00 pi4-8gb CRON[41825]: pam_unix(cron:session): session closed for user root
+2025-08-06T16:55:01.345725+01:00 pi4-8gb CRON[41842]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T16:55:01.355626+01:00 pi4-8gb CRON[41842]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:05:01.380849+01:00 pi4-8gb CRON[41858]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:05:01.390852+01:00 pi4-8gb CRON[41858]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:15:01.414844+01:00 pi4-8gb CRON[41875]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:15:01.425162+01:00 pi4-8gb CRON[41875]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:17:01.446730+01:00 pi4-8gb CRON[41881]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:17:01.456573+01:00 pi4-8gb CRON[41881]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:25:01.480576+01:00 pi4-8gb CRON[41898]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:25:01.490857+01:00 pi4-8gb CRON[41898]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:35:01.514783+01:00 pi4-8gb CRON[41913]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:35:01.525037+01:00 pi4-8gb CRON[41913]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:45:01.549846+01:00 pi4-8gb CRON[41935]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:45:01.559966+01:00 pi4-8gb CRON[41935]: pam_unix(cron:session): session closed for user root
+2025-08-06T17:55:01.583654+01:00 pi4-8gb CRON[41953]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T17:55:01.593921+01:00 pi4-8gb CRON[41953]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:05:01.617364+01:00 pi4-8gb CRON[41969]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:05:01.627416+01:00 pi4-8gb CRON[41969]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:15:01.652963+01:00 pi4-8gb CRON[41987]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:15:01.663049+01:00 pi4-8gb CRON[41987]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:17:01.686213+01:00 pi4-8gb CRON[41992]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:17:01.696156+01:00 pi4-8gb CRON[41992]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:25:01.719832+01:00 pi4-8gb CRON[42007]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:25:01.730324+01:00 pi4-8gb CRON[42007]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:35:01.754505+01:00 pi4-8gb CRON[42023]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:35:01.764767+01:00 pi4-8gb CRON[42023]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:45:01.789281+01:00 pi4-8gb CRON[42046]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:45:01.799491+01:00 pi4-8gb CRON[42046]: pam_unix(cron:session): session closed for user root
+2025-08-06T18:55:01.825400+01:00 pi4-8gb CRON[42062]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T18:55:01.835430+01:00 pi4-8gb CRON[42062]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:05:01.859906+01:00 pi4-8gb CRON[42076]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:05:01.869971+01:00 pi4-8gb CRON[42076]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:15:01.893086+01:00 pi4-8gb CRON[42094]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:15:01.903828+01:00 pi4-8gb CRON[42094]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:17:01.925920+01:00 pi4-8gb CRON[42100]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:17:01.935624+01:00 pi4-8gb CRON[42100]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:25:01.957341+01:00 pi4-8gb CRON[42113]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:25:01.967534+01:00 pi4-8gb CRON[42113]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:35:01.993061+01:00 pi4-8gb CRON[42130]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:35:02.003362+01:00 pi4-8gb CRON[42130]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:45:01.029194+01:00 pi4-8gb CRON[42151]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:45:01.039153+01:00 pi4-8gb CRON[42151]: pam_unix(cron:session): session closed for user root
+2025-08-06T19:55:01.064658+01:00 pi4-8gb CRON[42167]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T19:55:01.074748+01:00 pi4-8gb CRON[42167]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:05:01.100615+01:00 pi4-8gb CRON[42185]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:05:01.110140+01:00 pi4-8gb CRON[42185]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:15:01.132967+01:00 pi4-8gb CRON[42202]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:15:01.143241+01:00 pi4-8gb CRON[42202]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:17:01.163838+01:00 pi4-8gb CRON[42207]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:17:01.173779+01:00 pi4-8gb CRON[42207]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:25:01.196156+01:00 pi4-8gb CRON[42221]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:25:01.206385+01:00 pi4-8gb CRON[42221]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:35:01.230306+01:00 pi4-8gb CRON[42235]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:35:01.240386+01:00 pi4-8gb CRON[42235]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:45:01.266609+01:00 pi4-8gb CRON[42259]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:45:01.276933+01:00 pi4-8gb CRON[42259]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:53:42.860897+01:00 pi4-8gb sshd[42274]: Accepted publickey for ferris from 192.168.1.126 port 50353 ssh2: RSA SHA256:qK3yJ5XijXRwO9pIYUFNNNHdeEpaEiPkIhnXx2u+PNs
+2025-08-06T20:53:42.870629+01:00 pi4-8gb sshd[42274]: pam_unix(sshd:session): session opened for user ferris(uid=1000) by ferris(uid=0)
+2025-08-06T20:53:42.884581+01:00 pi4-8gb systemd-logind[738]: New session 1467 of user ferris.
+2025-08-06T20:54:45.097446+01:00 pi4-8gb sshd[42354]: Received disconnect from 192.168.1.126 port 50353:11: disconnected by user
+2025-08-06T20:54:45.107927+01:00 pi4-8gb sshd[42354]: Disconnected from user ferris 192.168.1.126 port 50353
+2025-08-06T20:54:45.109518+01:00 pi4-8gb sshd[42274]: pam_unix(sshd:session): session closed for user ferris
+2025-08-06T20:54:45.116241+01:00 pi4-8gb systemd-logind[738]: Session 1467 logged out. Waiting for processes to exit.
+2025-08-06T20:54:45.118738+01:00 pi4-8gb systemd-logind[738]: Removed session 1467.
+2025-08-06T20:55:01.301830+01:00 pi4-8gb CRON[42394]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-06T20:55:01.311667+01:00 pi4-8gb CRON[42394]: pam_unix(cron:session): session closed for user root
+2025-08-06T20:55:33.021835+01:00 pi4-8gb sshd[42398]: Accepted publickey for ferris from 192.168.1.126 port 50361 ssh2: RSA SHA256:qK3yJ5XijXRwO9pIYUFNNNHdeEpaEiPkIhnXx2u+PNs
+2025-08-06T20:55:33.031483+01:00 pi4-8gb sshd[42398]: pam_unix(sshd:session): session opened for user ferris(uid=1000) by ferris(uid=0)
+2025-08-06T20:55:33.044809+01:00 pi4-8gb systemd-logind[738]: New session 1469 of user ferris.
