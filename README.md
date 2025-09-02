@@ -52,6 +52,24 @@ go-log-analyser is a simple Linux log analyzer written in Go. This project is pr
     ```bash
     ./main -file /var/log/auth.log
     ```
+    Example output:
+
+    ```
+    === SSH Brute Force Summary ===
+
+    Top IPs:
+    192.168.1.102: 2 attempts
+    10.0.0.5: 4 attempts
+    203.0.113.45: 1 attempt
+    192.168.1.101: 3 attempts
+
+    Top Usernames:
+    admin: 2 attempts
+    test: 2 attempts
+    root: 4 attempts
+    guest: 1 attempt
+    deploy: 1 attempt
+    ```
 
     If no file is specified, the program will default to reading `auth.log`.
 
